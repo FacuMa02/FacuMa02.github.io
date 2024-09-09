@@ -1,0 +1,244 @@
+[
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Qué es POO?",
+    "respuesta": "Programación Orientada a Objetos",
+    "incorrecta1": "Programacion de objetos ordinarios",
+    "incorrecta2": "Pilas objetivas ordenadas",
+    "incorrecta3": "Un estilo de programacion",
+    "imagen": "https://miro.medium.com/max/600/1*2QTNUKQl2YFaXGq-l6i4nA.jpeg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Que es un algoritmo?",
+    "respuesta": "Secuencia de pasos organizados para resolver un problema",
+    "incorrecta1": "Una forma de programacion",
+    "incorrecta2": "Una secuencia de pasos que muestran la forma de programar una app",
+    "incorrecta3": "Se define como el proceso de escribir codigo",
+    "imagen": "https://eaccidentes.com/wp-content/uploads/2021/02/Proprietary-Algorithm.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Que hace un intérprete?",
+    "respuesta": "Procesa el codigo linea a linea",
+    "incorrecta1": "Interpreta a una persona que habla otro idioma",
+    "incorrecta2": "Una parte del hardware",
+    "incorrecta3": "Un programa que nos dice que significa el programa",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hamurabi-type-in.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Que es una variable?",
+    "respuesta": "Es un espacio en la memoria de la computadora, cuyo valor puede variar",
+    "incorrecta1": "Algo que varia en la computadora",
+    "incorrecta2": "Se define por la palabra 'var' en los lenguajes de programacion",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "http://img.c4learn.com/2012/02/Variable-in-Java.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Que es un IDE?",
+    "respuesta": "'Entorno de desarrollo integrado', en ingles",
+    "incorrecta1": "Internal Desktop Ellipse",
+    "incorrecta2": "Una herramienta para ejecutar los programas",
+    "incorrecta3": " Todas son correctas",
+    "imagen": "https://code.visualstudio.com/assets/apple-touch-icon.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Cual es el lenguaje que pertenece a este logo?",
+    "respuesta": "Go",
+    "incorrecta1": "Cobbol",
+    "incorrecta2": "Javascript",
+    "incorrecta3": "Python",
+    "imagen": "https://simg.nicepng.com/png/small/264-2641184_111-kb-png-golang-logo.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Diseño",
+    "pregunta": "¡La estereoscopia es una técnica para…",
+    "respuesta": "Crear la ilusión de profundidad y que una imagen 2D se vea 3D",
+    "incorrecta1": "Trasmitir sonido a través de parlantes de 15 pulgadas",
+    "incorrecta2": "Capturar imágenes en movimiento como estáticas",
+    "incorrecta3": " Todas son correctas",
+    "imagen": "http://proyectoidis.org/wp-content/uploads/2014/09/Estereoscopio-de-Wheatstone.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Diseño",
+    "pregunta": "¿Cuál de estos formatos de archivos NO es para imágenes?",
+    "respuesta": ".OGG",
+    "incorrecta1": ".JPG",
+    "incorrecta2": ".SVG",
+    "incorrecta3": ".PNG"
+  },
+  {
+    "categoria": "Diseño",
+    "pregunta": "¡El termino tipografía hace referencia a…",
+    "respuesta": "Caracteres alfanuméricos con un estilo y características comunes",
+    "incorrecta1": "La profesión de crear letras y números por medio de software",
+    "incorrecta2": "Las letras de una marca: ej.: Coca-cola, Pepsi, Google, PedidosYa, etc.",
+    "incorrecta3": " Todas son correctas",
+    "imagen": "https://img.freepik.com/vector-gratis/tipografia-fuente-alfabeto-letras-manuscritas_1094-122.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Diseño",
+    "pregunta": "¿Cuál fue el año he hito que marco la era de la TV en argentina?",
+    "respuesta": "17 de octubre de 1951, Eva Perón fue la encargada de emitir el primer discurso oficial, nace el Día de la Lealtad Peronista.",
+    "incorrecta1": "20 de julio de 1969, aterrizaje del Apolo 11 en la Luna, millones de personas pegadas a los televisores en todo el mundo.",
+    "incorrecta2": "La 1 y la 2",
+    "incorrecta3": " Del 1 al 16 de agosto de 1936, se trasmiten por primera vez los juegos olímpicos, organizados por el régimen nazi alemán."
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "¡Minecraft!, es un videojuego de:",
+    "respuesta": "Mundo abierto, creado por Markus Persson, Notch, fue su primer proyecto personal y luego de renunciar a su trabajo creo Mojang Studios con un colega y amigo.",
+    "incorrecta1": "Mundo abierto, creado por Mojang Studios para educar sobre el ambiente y el trabajo en equipo. ",
+    "incorrecta2": "Mundo abierto, creado por Mojang Studios, primero para celular y luego para PC, vendido a Microsoft en 2014.",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "https://www.minecraft.net/content/dam/games/minecraft/marketplace/mediablock-buzzybees.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "Un motor de desarrollo de videojuegos es un:",
+    "respuesta": "Programa para crear videojuegos con o sin lenguaje de programación, evitando tener que programar todo de cero, o restringiéndote su uso si no sabes programar.",
+    "incorrecta1": "Una plataforma donde creadores de contenidos y diseñadores se reúnen a compartir lo que saben, para crear videojuegos. ",
+    "incorrecta2": "Steam, Epic y Itch.io son motores de desarrollo de videojuegos.",
+    "incorrecta3": "Ninguna de las anteriores"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "El meme “F” en el chat o como respuesta graciosa se produjo dentro del videojuego:",
+    "respuesta": "Call of Duty",
+    "incorrecta1": "GTA San Andreas",
+    "incorrecta2": "Roblox",
+    "incorrecta3": "Buscaminas",
+    "imagen": "https://www.actualapp.com/wp-content/uploads/2019/01/f-en-el-chat-1-min.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "¿Cuál de estos géneros de videojuegos no es considerado en realidad un tipo de videojuego?",
+    "respuesta": "Visual novel (novela visual o novela sonora)",
+    "incorrecta1": "Real-time strategy (estrategia en tiempo real o RTS)",
+    "incorrecta2": "First person shooter (disparos en primera persona o FPS)",
+    "incorrecta3": "Ninguno de estos se considera un tipo"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "En argentina existen comunidades de videojuegos en cada provincia, estas sirven para que los que hacen juegos y los artistas se junten, trabajen o compartan lo que saben. De estas tres provincias ¿Cuál crees que tiene la comunidad más grande del país?",
+    "respuesta": "Santa Fe",
+    "incorrecta1": "Cordoba",
+    "incorrecta2": "Buenos Aires",
+    "incorrecta3": "Neuquén",
+    "imagen": "https://i.blogs.es/ef9826/dwxtzg9wwaag_ho.jpg-large/450_1000.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "Cual fue primero?",
+    "respuesta":"Pong" ,
+    "incorrecta1": "Tetris",
+    "incorrecta2": "Donkey Kong",
+    "incorrecta3": "PacMan",
+    "imagen": "https://wallpapercave.com/wp/wp6021703.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "Como se llama el hermano de Mario Bros?",
+    "respuesta": "Luigi",
+    "incorrecta1": "Mario Jr.",
+    "incorrecta2": "Honguito",
+    "incorrecta3": "Luis",
+    "imagen": "https://images.nintendolife.com/8d5c9f5370209/large.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "Cual es un videojuego de autos de carrera?",
+    "respuesta": "Top Gear",
+    "incorrecta1": "Snake",
+    "incorrecta2": "Frogger",
+    "incorrecta3":"R-type" ,
+    "imagen": "https://cdn2.actitudfem.com/media/files/foto_4_.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "Como se llama el enemigo de Sonic?",
+    "respuesta": "Dr.Robotnik",
+    "incorrecta1": "Robotech",
+    "incorrecta2": "Tails",
+    "incorrecta3": "Dr. Malo",
+    "imagen": "https://1.bp.blogspot.com/--A3eREar8v4/YHIrErXnXdI/AAAAAAAATIA/tFyW91FwUE8HhtUFoTb5_ISPB54Ie8OYQCLcBGAsYHQ/s1280/weggman.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "Cual fue la primera consola de PlayStation?",
+    "respuesta": "PS1",
+    "incorrecta1": "PS Project",
+    "incorrecta2": "Play One",
+    "incorrecta3": "Playstation Origin",
+    "imagen": "https://assets.vg247.com/current/2015/09/playstation_one_original.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "¿Qué instrumento de viento suele usar Link de The Legend of Zelda?",
+    "respuesta": "Ocarina",
+    "incorrecta1": "Armónica",
+    "incorrecta2": "Saxofón",
+    "incorrecta3": "Flauta",
+    "imagen": "http://img3.wikia.nocookie.net/__cb20091217212909/zelda/images/d/d4/Link_Playing_Ocarina_(Ocarina_of_Time).png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "¿Qué es “lag”?",
+    "respuesta": "Retardo producido por una telecomunicación en tiempo real",
+    "incorrecta1": "Un fenómeno inexplicable",
+    "incorrecta2": "Lo peor que te puede pasar mientras juegas",
+    "incorrecta3": "La pesadilla de todo gamer",
+    "imagen": "https://media.tenor.com/LBFAp3In1vIAAAAM/interrupt-bo1.gif",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programación",
+    "pregunta": "¿Qué es PSeInt?",
+    "respuesta": "Es una herramienta para aprender lógica de programación",
+    "incorrecta1": "Un lenguaje de programación",
+    "incorrecta2": "Un juego",
+    "incorrecta3": "Una Red Social",
+    "imagen": "https://img.utdstc.com/icon/d8a/4ea/d8a4eaa29145cd5dc6f37e39fdab68be336ee39a94f690a2f40192231a765b12:200",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Programacion",
+    "pregunta": "¿Qué es una variable tipo int?",
+    "respuesta": "Entero",
+    "incorrecta1": "Número de gran valor",
+    "incorrecta2": "Decimal",
+    "incorrecta3": "Carácter",
+    "imagen": "https://media.geeksforgeeks.org/wp-content/uploads/20190708153106/Variables-in-C-1.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Videojuegos",
+    "pregunta": "¿Para qué sirve la lógica en la programación?",
+    "respuesta": "Para poder desarrollar un algoritmo",
+    "incorrecta1": "Para las matemáticas",
+    "incorrecta2": "Para ser mejor jugador",
+    "incorrecta3": "Para ser más sabio",
+    "imagen": "https://lh5.googleusercontent.com/proxy/MMcw4xRPKl_eAdieZVPR21eehOL5gNrtf5K3PqEsWkL0FFl9op3cXk5MF4_Uaym5sYBU1OjL1kFji4zBtM8VRrknmNhNWyP2KDomQfbQ4ien=w1200-h630-p-k-no-nu",
+    "objectFit": "contain"
+  }
+]

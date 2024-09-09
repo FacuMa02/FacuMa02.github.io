@@ -1,0 +1,17 @@
+{
+  "name": "Educatrivia",
+  "icons": [
+    {
+      "src": "static/icons/rocket512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "static/icons/rocket128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": "http://localhost:5500/views/index.html",
+  "display": "standalone"
+}
