@@ -1,7 +1,6 @@
 {
   "name": "Educatrivia",
-  "scope": "/views/",
-  "start_url": "/views/",
+  "start_url": "index.html",
   "display": "standalone",
   "icons": [
     {
